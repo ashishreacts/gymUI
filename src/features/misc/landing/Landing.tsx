@@ -15,6 +15,9 @@ export const Landing = () => {
         <li>
           <Link to="/app/plans">Go to Plans</Link>
         </li>
+        <li>
+          <Link to="/app/login">Go to Gym</Link>
+        </li>
       </ul>
     </>
   );
